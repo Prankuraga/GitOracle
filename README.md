@@ -1,1 +1,2 @@
 # GitOracle
+Local Copy
